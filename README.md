@@ -30,11 +30,7 @@ This project is a **Smart Email Processing System** designed to enhance the emai
    git clone https://github.com/AdaLovelemon/EmailAgent.git  
    cd EmailAgent
    ```  
-2. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-3. Run the application:  
+2. Run the application:  
    ```bash  
    python mail.py  
    ```  
