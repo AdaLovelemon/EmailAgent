@@ -1,0 +1,7 @@
+API_key: 'YOUR_API_KEY'
+project: Your-Project
+entity: Your-Entity
+name: 'You name it'
+tags: ['TSC', 'ImgClassification', '...']
+notes: 'Give a chill name'
+dir: path/to/your/project

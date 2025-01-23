@@ -1,0 +1,8 @@
+Model:
+  BERT:
+    vocab_size: 30522
+    embed_size: 768
+    num_heads: 12
+    ff_hidden_size: 3072
+    num_layers: 12
+    max_len: 512
