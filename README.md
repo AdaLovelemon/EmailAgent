@@ -19,6 +19,10 @@ This project is a **Smart Email Processing System** designed to enhance the emai
   - Generate replies to emails.  
   - Delete or mark emails as spam directly in the interface.  
 
+
+![image](assets/mailAPP)
+
+
 ## Installation  
 ### Prerequisites  
 - Python 3.8+  
@@ -62,8 +66,8 @@ This project is a **Smart Email Processing System** designed to enhance the emai
 - **Multi-language Support**: Expand email processing capabilities to support multiple languages.  
 
 ## Credits  
-- **Team Members**: [Junhang He, Hongming Guo, Qizhi Zhang, Ruixuan Zhu] 
-- **Acknowledgments**: Special thanks to IAIR of XJTU.
+- **Team Members**: **Junhang He**, **Hongming Guo**, **Qizhi Zhang**, **Ruixuan Zhu** 
+- **Acknowledgments**: Special thanks to **IAIR** of **XJTU**.
 
 ## License  
 This project is licensed under the MIT License.  
