@@ -20,7 +20,7 @@ This project is a **Smart Email Processing System** designed to enhance the emai
   - Delete or mark emails as spam directly in the interface.  
 
 
-![image](assets/mailAPP)
+![image](assets/example1.png)
 
 
 ## Installation  
@@ -38,6 +38,8 @@ This project is a **Smart Email Processing System** designed to enhance the emai
    ```bash  
    python mail.py  
    ```  
+![image](assets/example2.png)
+
 
 ## How It Works  
 ### 1. **Spam Classification**  
